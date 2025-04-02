@@ -4,6 +4,8 @@ Gets to 99.25% test accuracy after 12 epochs
 16 seconds per epoch on a GRID K520 GPU.
 '''
 
+##This is file
+
 from __future__ import print_function
 import keras
 import tensorflow.keras
